@@ -1,6 +1,6 @@
-package Voll.med.api.medico;
+package Voll.med.api.domain.medico;
 
-import Voll.med.api.endereco.DadosEndereco;
+import Voll.med.api.domain.endereco.DadosEndereco;
 import jakarta.persistence.Embeddable;
 import lombok.AllArgsConstructor;
 import lombok.Data;

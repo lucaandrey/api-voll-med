@@ -1,4 +1,4 @@
-package Voll.med.api.medico;
+package Voll.med.api.domain.medico;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
